@@ -4,7 +4,7 @@ Hello, this is an Event Management System Project ,to activate project follow th
 
 2.After setup of node open project and install express ,bodyparser,mysql,nodemailer on your terminal
 
-Pay attention you need to import the sql database on your phpmyadmin.
+Pay attention you need to import the sql database on your phpmyadmin it's inside of the project.
 
 And the database name must be event_managment_system
 
